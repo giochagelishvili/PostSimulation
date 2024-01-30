@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\bin\Debug\net6.0\PostSimulation.exe
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\bin\Debug\net6.0\PostSimulation.deps.json
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\bin\Debug\net6.0\PostSimulation.runtimeconfig.json
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\bin\Debug\net6.0\PostSimulation.dll
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\bin\Debug\net6.0\PostSimulation.pdb
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.AssemblyInfo.cs
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.dll
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\refint\PostSimulation.dll
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.pdb
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\PostSimulation.genruntimeconfig.cache
+C:\Users\user\Desktop\Side Projects\C#\PostSimulation\PostSimulation\obj\Debug\net6.0\ref\PostSimulation.dll
